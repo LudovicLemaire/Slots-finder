@@ -33,4 +33,4 @@ Despite being developped with Flutter, it is not compatible for Web, Microsoft o
 The app need your intranet cookie to be able to use the intranet API. The webview library I use isn't compatible with Mac/Windows. <br />
 I tried to use iFrame for Web version, saddly there is a security protection that block me from getting the cookie from a Cross Origin url.
 # Demo
-![Gif demo](<img src="https://raw.githubusercontent.com/LudovicLemaire/Slots-finder/main/github_assets/demo.gif" height="600" width="300">)
+<img src="https://raw.githubusercontent.com/LudovicLemaire/Slots-finder/main/github_assets/demo.gif" height="600" width="275">
