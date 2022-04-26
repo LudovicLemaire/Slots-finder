@@ -2,4 +2,4 @@
 
 const String CLIENT_UID = 'your_client_uid';
 const String CLIENT_SECRET = 'your_client_secret';
-const String GET_CODE_URL = "your_oauth_url";
+const String AUTHORIZE_URL = "your_oauth_url";

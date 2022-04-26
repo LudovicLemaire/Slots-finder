@@ -30,7 +30,7 @@ class _GetCodeViewState extends State<GetCodeView> {
       children: <Widget>[
         Expanded(
             child: InAppWebView(
-                initialUrlRequest: URLRequest(url: Uri.parse(GET_CODE_URL)),
+                initialUrlRequest: URLRequest(url: Uri.parse(AUTHORIZE_URL)),
                 initialOptions: InAppWebViewGroupOptions(
                   crossPlatform: InAppWebViewOptions(
                     mediaPlaybackRequiresUserGesture: false,
